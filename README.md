@@ -9,11 +9,11 @@
 
 Unlock the world of cryptocurrency trading with VRToken, a completely decentralized exchange.
 
--  ##### Your Keys - Your Coins 🔑
+- ##### Your Keys - Your Coins 🔑
 
 Own your own crypto, just like cash, in your wallet. Self custody of your funds, as it should be.
 
--  ##### Move Assets Across Networks in Seconds! 🔐
+- ##### Move Assets Across Networks in Seconds! 🔐
 
 We make it easy for you to move assets across networks quickly and securely.
 
