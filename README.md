@@ -1,10 +1,10 @@
-# VRToken - Decentralized Cryptocurrency Exchange
+# VRToken - Decentralized Cryptocurrency Exchange 🪙
 
 🌐 [Visit VRToken Website](https://vrtoken.com/)
 
 
 
-- BUY, SELL OR SWAP INSTANTLY 🪙
+- BUY, SELL OR SWAP INSTANTLY 💵
 
 Unlock the world of cryptocurrency trading with VRToken, a completely decentralized exchange.
 
