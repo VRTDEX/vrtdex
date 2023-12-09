@@ -5,15 +5,15 @@
 ![image](https://github.com/VRTDEX/vrtdex/assets/82428991/838a479e-be10-479a-9af3-217031e84639)
 
 
-- BUY, SELL OR SWAP INSTANTLY 💵
+- ##### BUY, SELL OR SWAP INSTANTLY 💵
 
 Unlock the world of cryptocurrency trading with VRToken, a completely decentralized exchange.
 
-- Your Keys - Your Coins 🔑
+-  ##### Your Keys - Your Coins 🔑
 
 Own your own crypto, just like cash, in your wallet. Self custody of your funds, as it should be.
 
-- Move Assets Across Networks in Seconds! 🔐
+-  ##### Move Assets Across Networks in Seconds! 🔐
 
 We make it easy for you to move assets across networks quickly and securely.
 
